@@ -14,7 +14,6 @@ This project highlights technical proficiency in machine learning and data handl
 - [How to Run](#how-to-run)
 - [Key Features](#key-features)
 - [Further Learning](#further-learning)
-- [Contact](#contact)
 
 ---
 
