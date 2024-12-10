@@ -82,7 +82,6 @@ The dataset, **loan.csv**, includes customer information such as:
 ## How to Run
 
 ### Clone the Repository
-```bash
 git clone https://github.com/python-srinu/Decision_Tree_Load.git
 cd Decision_Tree_Load
 ## Key Features
@@ -91,8 +90,6 @@ cd Decision_Tree_Load
 - **Hyperparameter Tuning**: `GridSearchCV` used to optimize the model for better predictions.
 - **Custom Metrics**: Manual calculations for Gini Index and Entropy for selected features.
 - **Visualizations**: Clear, interpretable visual representation of the decision-making process.
-
----
 
 ## Further Learning
 Advanced methods include exploring **Ensemble Methods** such as **Random Forests** and **Boosting algorithms** like **AdaBoost** and **Gradient Boosting**. These techniques combine multiple decision trees to enhance model performance by reducing overfitting and improving predictive accuracy.
